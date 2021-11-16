@@ -1,0 +1,7 @@
+third
+test git diff
+<<<<<<< HEAD
+dev B
+=======
+dev A
+>>>>>>> c1c339dc8881a04bf8ab67b70580443af71b078e
